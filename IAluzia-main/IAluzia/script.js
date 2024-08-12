@@ -73,3 +73,7 @@ let historiaFinal = "";
     textoResultado.textContent = historiaFinal;
     caixaAlternativas.textContent = "";
  }
+  
+ mostraPergunta();
+
+
